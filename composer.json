@@ -17,7 +17,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "Istiakshams\\Artemis\\Providers"
+        "Istiakshams\\Artemis\\Providers\\ArtemisProvider"
       ]
     }
   }
