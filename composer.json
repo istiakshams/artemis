@@ -1,0 +1,17 @@
+{
+    "name": "istiakshams/artemis",
+    "description": "Laravel Tailwind Admin Panel",
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Istiakshams\\Artemis\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Istiak Shams"
+        }
+    ]
+}
